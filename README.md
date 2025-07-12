@@ -4,7 +4,6 @@ A simple, cute, and handcrafted HTML portfolio — built in 2022 when I first st
 
 This was my very first attempt at creating a personal site with just HTML, CSS, and a sprinkle of dreams.
 
-![Website Screenshot](./Screenshot%202025-07-12%20223553.png)
 ---
 
 ## 🚀 Live Demo
